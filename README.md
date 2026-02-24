@@ -159,17 +159,15 @@ Contains Terraform configuration to:
 ### .gitignore
 Prevents sensitive and unnecessary files from being pushed to GitHub:
 
-``
+```
 
 .terraform/
 terraform.tfstate
 terraform.tfstate.backup
 
-``
+```
 
 --
 
 
 
-
-Tell me what you want next 💪
